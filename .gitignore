@@ -1,0 +1,15 @@
+venv
+.venv
+
+MonE/config.json
+
+*.egg-info
+*.xml
+*.iml
+*.pyc
+
+__pycache__
+/__pycache__
+
+/tests
+/.pytest_cache
