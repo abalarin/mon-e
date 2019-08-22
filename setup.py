@@ -9,5 +9,6 @@ setup(
         'flask-marshmallow',
         'marshmallow-sqlalchemy',
         'flask-security',
+        'urllib3',
     ]
 )
